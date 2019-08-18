@@ -1,5 +1,5 @@
 
-# Script Pyhton
+# Script Python
 # Data Scraping
 # 18-08-2019
 
