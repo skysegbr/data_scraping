@@ -1,0 +1,8 @@
+### Vs Code ###
+.vscode/
+
+### virtualenv ###
+/venv
+
+### driver ###
+chromedriver
